@@ -17,6 +17,13 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# save data
+/Saves/*
+
+# skyrim script editor
+/SKSE/*
+
+
 # =========================
 # Operating System Files
 # =========================
